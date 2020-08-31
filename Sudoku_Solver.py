@@ -1,3 +1,4 @@
+// TEST GIT CHANGES
 with open("C:/Users/palat/Documents/sudoku.txt.txt") as sudoku:
     A=[line.split() for line in sudoku]
 
